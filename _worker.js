@@ -20,6 +20,57 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'time.cloudflare.com':80#傻姑 '，
+'shopify.com':80#傻姑 '，
+'time.is':80#傻姑 '，
+'icook.hk':80#傻姑 '，
+'icook.tw':80#傻姑 '，
+'ip.sb':80#傻姑 '，
+'japan.com':80#傻姑 '，
+'malaysia.com':80#傻姑 '，
+'russia.com':80#傻姑 '，
+'singapore.com':80#傻姑 '，
+'skk.moe':80#傻姑 '，
+'www.visa.com':80#傻姑 '，
+'www.visa.com.sg':80#傻姑 '，
+'www.visa.com.hk':80#傻姑 '，
+'www.visa.com.tw':80#傻姑 '，
+'www.visa.co.jp':80#傻姑 '，
+'www.visakorea.com':80#傻姑 '，
+'www.gco.gov.qa':80#傻姑 '，
+'www.gov.se':80#傻姑 '，
+'www.gov.ua':80#傻姑 '，
+'www.digitalocean.com':80#傻姑 '，
+'www.csgo.com':80#傻姑 '，
+'www.shopify.com':80#傻姑 '，
+'www.whoer.net':80#傻姑 '，
+'www.whatismyip.com':80#傻姑 '，
+'www.ipget.net':80#傻姑 '，
+'www.hugedomains.com':80#傻姑 '，
+'www.udacity.com':80#傻姑 '，
+'www.4chan.org':80#傻姑 '，
+'www.okcupid.com':80#傻姑 '，
+'www.glassdoor.com':80#傻姑 '，
+'www.udemy.com':80#傻姑 '，
+'www.baipiao.eu.org':80#傻姑 '，
+'cdn.anycast.eu.org':80#傻姑 '，
+'cdn-all.xn--b6gac.eu.org':80#傻姑 '，
+'cdn-b100.xn--b6gac.eu.org':80#傻姑 '，
+'xn--b6gac.eu.org':80#傻姑 '，
+'edgetunnel.anycast.eu.org':80#傻姑 '，
+'alejandracaiccedo.com':80#傻姑 '，
+'nc.gocada.co':80#傻姑 '，
+'log.bpminecraft.com':80#傻姑 '，
+'www.boba88slot.com':80#傻姑 '，
+'gur.gov.ua':80#傻姑 '，
+'www.zsu.gov.ua':80#傻姑 '，
+'www.iakeys.com':80#傻姑 '，
+'edtunnel-dgp.pages.dev':80#傻姑 '，
+'www.d-555.com':80#傻姑 '，
+'fbi.gov':80#傻姑 '，
+
+
+
 ];
 
 // 设置优选noTLS地址api接口
